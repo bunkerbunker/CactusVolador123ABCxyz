@@ -1,10 +1,13 @@
 # Titulo del proyecto
 
-Breve descripción del proyecto y su objetivo.
+MercadoLibro - Plataforma de Reseñas de Libros
 
 ## Descripción del proyecto
 
-¿Estás comenzando un proyecto pequeño, un desafío de programación o un tutorial, y necesitas una forma rápida y sencilla de crear documentación básica? ¡Esta plantilla README minimalista es para ti!
+Este proyecto tiene como objetivo desarrollar un sitio web dinámico y responsivo para la gestión de reseñas de libros. Los usuarios podrán escribir y editar reseñas, calificar libros y seguir a autores. La plataforma ofrecerá una experiencia de usuario fluida y adaptable en diversos dispositivos, con múltiples niveles de acceso para garantizar funcionalidades específicas según el rol del usuario. La comunidad literaria activa, la facilidad de uso y los recursos personalizados son algunos de los beneficios clave de esta plataforma. El alcance del proyecto incluye el diseño, la implementación y las pruebas exhaustivas antes del lanzamiento oficial.
+
+Alcance del Proyecto:
+El desarrollo del sitio web incluirá el diseño y la implementación de la interfaz de usuario, la creación de la base de datos para almacenar reseñas y perfiles de usuario, así como la implementación de funcionalidades específicas según los roles de usuario. 
 
 ## Capturas de Pantalla del Proyecto
 
