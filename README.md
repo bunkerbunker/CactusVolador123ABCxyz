@@ -34,14 +34,24 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
+1. Clona este repositorio en tu máquina local:
 ```bash
-# paso 1
+git clone https://github.com/tu_usuario/onlyflans.git
 ```
 
-Y así sucesivamente...
-
+2. Navega hasta el directorio del proyecto:
 ```bash
-# paso 2
+cd onlyflans
+```
+
+3. Instala las dependencias utilizando pip:
+```bash
+pip install -r requirements.txt
+```
+
+4. Realiza las migraciones de la base de datos:
+```bash
+python manage.py migrate
 ```
 
 ## Instrucciones para Ejecutar el Proyecto
