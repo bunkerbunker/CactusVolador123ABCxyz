@@ -76,15 +76,17 @@ Y así sucesivamente...
 
 ## Credenciales de Acceso
 
-### Para Usuario Tipo Administrador
+--- 
 
-- Email: administrador@mail.com
-- Contraseña: Abc123#
+### Para Usuario Tipo Administrador
+| Email  | Contraseña  |
+|---|---|
+| administrador@mail.com  | Abc123#  |
 
 ### Para Usuario Tipo Huésped
-
-- Email: huesped@mail.com
-- Contraseña: Abc123#
+| Email  | Contraseña  |
+|---|---|
+| lector@mail.com  | Abc123#  |
 
 ## Autor
 
