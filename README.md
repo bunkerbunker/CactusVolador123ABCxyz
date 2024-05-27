@@ -20,6 +20,10 @@ Vista inicio de la aplicación.
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
+- Python 3.10.10
+- Django 4.2.11
+- Un entorno virtual en WSL
+
 - Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
 - Lenguaje de programación (por ejemplo, Python 3.8)
 - Framework (por ejemplo, Django 3.1)
