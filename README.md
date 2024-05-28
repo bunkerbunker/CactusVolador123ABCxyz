@@ -13,7 +13,7 @@ El desarrollo del sitio web incluirá el diseño y la implementación de la inte
 
 Incluir capturas de pantalla o imágenes que muestren el proyecto en funcionamiento.
 
-![Home](imagenes/home1.png)
+![Home1](imagenes/home1.png)
 Vista inicio de la aplicación.
 
 ## Prerrequisitos o Dependencias
